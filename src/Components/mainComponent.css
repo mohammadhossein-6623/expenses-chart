@@ -4,25 +4,7 @@
   padding: 10px;
   margin-top: 10px;
 }
-.bar-container {
-  display: flex;
-  justify-content: center;
-}
 
-.barChart {
-  margin: 20px 0;
-}
-
-.custom-bar {
-  fill: hsl(10, 79%, 65%);
-  border-radius: 30px;
-}
-.tooltip {
-  background-color: rgba(0, 0, 0, 0.815);
-  color: rgb(255, 255, 255);
-  padding: 10px;
-  border-radius: 5px;
-}
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
