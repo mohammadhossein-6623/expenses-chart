@@ -1,0 +1,13 @@
+.header {
+  display: grid;
+  grid-template-columns: 80% 20%;
+
+  align-items: center;
+  padding: 10px;
+  background-color: hsl(10, 79%, 65%);
+  color: white;
+  border-radius: 25px;
+}
+.totalExpenses {
+  margin: 9px;
+}
